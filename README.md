@@ -2,6 +2,8 @@
 
 This repo is for paper "Sparse Variational Gaussian Process based Day-ahead Probabilistic Wind Power Forecasting", IEEE Transactions on Sustainable Energy (2022).
 
+Requirements: pytorch, gpytorch.
+
 If you have any questions, please contact Honglin Wen via email: linlin00@sjtu.edu.cn.
 
 If you think the repo helpful, please cite this paper.
