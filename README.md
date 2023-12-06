@@ -6,7 +6,7 @@ Requirements: pytorch, gpytorch.
 
 If you have any questions, please contact Honglin Wen via email: linlin00@sjtu.edu.cn.
 
-If you think the repo helpful, please cite this paper.
+If you think the repo helpful, please give it a credit.
 
 @article{wen2022sparse,
   title={Sparse Variational Gaussian Process based Day-ahead Probabilistic Wind Power Forecasting},
